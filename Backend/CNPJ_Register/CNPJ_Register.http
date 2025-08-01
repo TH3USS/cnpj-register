@@ -1,0 +1,6 @@
+@CNPJ_Register_HostAddress = http://localhost:5103
+
+GET {{CNPJ_Register_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

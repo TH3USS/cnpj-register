@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|c:\\users\\matheus\\documents\\projetos\\cnpj_register\\backend\\cnpj_register\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|solutionrelative:cnpj_register\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|c:\\users\\matheus\\documents\\projetos\\cnpj_register\\backend\\cnpj_register\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|solutionrelative:cnpj_register\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|c:\\users\\matheus\\documents\\projetos\\cnpj_register\\backend\\cnpj_register\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|solutionrelative:cnpj_register\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|c:\\users\\matheus\\documents\\projetos\\cnpj_register\\backend\\cnpj_register\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|solutionrelative:cnpj_register\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|c:\\users\\matheus\\documents\\projetos\\cnpj_register\\backend\\cnpj_register\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|solutionrelative:cnpj_register\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|c:\\users\\matheus\\documents\\projetos\\cnpj_register\\backend\\cnpj_register\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|solutionrelative:cnpj_register\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|c:\\users\\matheus\\documents\\projetos\\cnpj_register\\backend\\cnpj_register\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|solutionrelative:cnpj_register\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|c:\\users\\matheus\\documents\\projetos\\cnpj_register\\backend\\cnpj_register\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|solutionrelative:cnpj_register\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|c:\\users\\matheus\\documents\\projetos\\cnpj_register\\backend\\cnpj_register\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D0D1F4-4641-4E14-81F7-B0178F2ECF91}|CNPJ_Register\\CNPJ_Register.csproj|solutionrelative:cnpj_register\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\appsettings.json",
+              "RelativeDocumentMoniker": "CNPJ_Register\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\appsettings.json",
+              "RelativeToolTip": "CNPJ_Register\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T02:00:49.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Program.cs",
+              "RelativeDocumentMoniker": "CNPJ_Register\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Program.cs",
+              "RelativeToolTip": "CNPJ_Register\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T02:00:24.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "CNPJ_Register\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "CNPJ_Register\\Controllers\\EmpresaController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T02:00:07.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CNPJ_Register\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CNPJ_Register\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:59:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CNPJ_Register\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "CNPJ_Register\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:58:57.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "CNPJ_Register\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "CNPJ_Register\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:58:38.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CNPJ_Register\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CNPJ_Register\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:57:49.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "CNPJ_Register\\Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Models\\Empresa.cs",
+              "RelativeToolTip": "CNPJ_Register\\Models\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:57:14.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CNPJ_Register\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CNPJ_Register\\Backend\\CNPJ_Register\\Models\\User.cs",
+              "RelativeToolTip": "CNPJ_Register\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:56:56.496Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
